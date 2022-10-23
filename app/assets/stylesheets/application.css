@@ -56,3 +56,11 @@ body{
   font-weight: 500;
   line-height: 1.2;
 }
+
+.blue{
+  color: blue;
+}
+
+.red{
+  color: #ff0000;
+}
